@@ -1,5 +1,5 @@
 {
-    "##": "Maintainers: when updating this manifest to a new version, you might like to also update git-with-openssh.json and mingit.json",
+    "##": "维护人员：在将此 manifest 更新为新版本时，您可能还需要更新git-with-openssh.json和mingit.json，他们在 main bucket 下。",
     "homepage": "https://git-for-windows.github.io/",
     "mirror":"https://npm.taobao.org/mirrors",
     "license": "GPL-2.0",

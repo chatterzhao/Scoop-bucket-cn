@@ -1,6 +1,6 @@
 {
     "version": "nightly",
-    "description": "Docker. Open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.",
+    "description": "Docker：开放平台，供开发人员和系统管理员在笔记本电脑、数据中心虚拟机或云上构建、发布和运行分布式应用程序",
     "homepage": "https://www.docker.com/",
     "license": {
         "identifier": "Apache-2.0",
